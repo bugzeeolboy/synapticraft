@@ -1,0 +1,4 @@
+synapticraft
+============
+
+minecraft package management
